@@ -1,0 +1,7 @@
+Log File Analysis Report
+=========================
+ERROR: 3
+INFO: 3
+WARNING: 2
+=========================
+Most Frequent: ERROR (3 occurrences)
